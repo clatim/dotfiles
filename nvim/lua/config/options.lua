@@ -24,3 +24,4 @@ vim.opt.wrap = false
 vim.opt.backspace = "start,eol,indent"
 vim.g.autoformat = false
 vim.g.snacks_animate = false
+vim.api.nvim_set_option("clipboard", "unnamedplus")
