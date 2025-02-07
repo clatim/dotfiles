@@ -137,6 +137,8 @@ export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
 export FZF_ALT_C_COMMAND="fd -t d . $HOME"
 alias ll="eza --header --long --icons"
 alias ls="eza --header --long --icons --grid"
+alias v=nvim
+alias vim=nvim
 # Broot
 source /home/chipmonkcheeks/.config/broot/launcher/bash/br
 export MODULAR_HOME="/home/chipmonkcheeks/.modular"

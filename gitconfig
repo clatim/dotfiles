@@ -1,0 +1,9 @@
+[core]
+	editor = nvim
+[user]
+	name = Charlie Latimer
+	email = clatimer159@gmail.com
+[init]
+	defaultBranch = main
+[credential]
+	helper = libsecret
