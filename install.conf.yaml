@@ -12,6 +12,7 @@
     ~/.config/nvim: nvim
     ~/.gitconfig: gitconfig
     ~/.tmux: tmux
+    ~/backup.sh: backup.sh
 
 
 - shell:
