@@ -145,3 +145,7 @@ export MODULAR_HOME="/home/chipmonkcheeks/.modular"
 export PATH="/home/chipmonkcheeks/.modular/pkg/packages.modular.com_mojo/bin:$PATH"
 # For java
 export PATH="/usr/java/bin:$PATH"
+#
+# uv
+eval "$(uv generate-shell-completion zsh)"
+eval "$(uvx --generate-shell-completion zsh)"
