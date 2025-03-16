@@ -13,6 +13,7 @@
     ~/.gitconfig: gitconfig
     ~/.tmux: tmux
     ~/backup.sh: backup.sh
+    ~/.tmux.conf: tmux.conf
 
 
 - shell:
